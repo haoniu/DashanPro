@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="viewport" content="width=1000, initial-scale=1.0, maximum-scale=1.0">
+        <!-- Loading Bootstrap -->
+        <link href="__PUBLIC__/Admin/Flat/dist/css/vendor/bootstrap.min.css" rel="stylesheet">
+        <!-- Loading Flat UI -->
+        <link href="__PUBLIC__/Admin/Flat/dist/css/flat-ui.css" rel="stylesheet">
+        <link href="__PUBLIC__/Admin/Flat/docs/assets/css/demo.css" rel="stylesheet">
+        <link rel="shortcut icon" href="__PUBLIC__/Admin/Flat/img/favicon.ico">
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+        <!--[if lt IE 9]>
+          <script src="dist/js/vendor/html5shiv.js"></script>
+          <script src="dist/js/vendor/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+    <form action="" method="post" enctype="multipart/form-data">
+        <div class="alert alert-success">编辑文章</div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">文章标题</label>
+            <input id="exampleInputEmail1" class="form-control" type="text" value="{$oldData['title']}" required="" name="title">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">作者</label>
+            <input id="exampleInputEmail1" class="form-control" type="text" value="{$oldData['author']}" required="" name="author">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">所属分类</label>
+            <select name="category_cid" class="form-control">
+                <option value="">请选择</option>
+                <foreach name="cateData" item="v">
+                <option value="{$v['cid']}" <if condition="$v['cid'] eq $oldData['category_cid']">selected</if> >{$v['_name']}</option>
+                </foreach>
+            </select>
+        </div>
+        <script src="__PUBLIC__/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript">
+            $(function(){
+                //点击'x'
+                $('.close_img').click(function(){
+                    //移除
+                    $('.img_div').remove();
+                    //添加上传表单
+                    $('.file_div').html('<input type="file" name="thumb">');
+                })
+            })
+        </script>
+        <div class="form-group">
+            <label for="exampleInputEmail1">缩略图</label>
+            <present name="oldData['thumb']">
+                <div class="img_div">
+                    <img src="__ROOT__/{$oldData['thumb']}">
+                    <a href="javascript:;" class="close_img">X</a>
+                    <input type="hidden" name="thumb" value="{$oldData['thumb']}">
+                </div>
+            <else />
+                <input id="exampleInputEmail1" type="file" name="thumb" >
+            </present>
+            <!--放file表单的div-->
+            <div class="file_div"></div>
+        </div>
+        
+        <div id="">
+            <label for="">文章标签</label>
+            <br />
+            <foreach name="tagData" item="v">
+            <label class="checkbox checkbox-inline" >
+                <input id="checkbox1" class="custom-checkbox" type="checkbox" data-toggle="checkbox" value="{$v['tid']}" name="tid[]" <if condition="in_array($v['tid'],$tids)">checked="checked"</if> >
+                <span class="icons">
+                <span class="icon-unchecked"></span>
+                <span class="icon-checked"></span>
+                </span>
+                {$v['tname']}
+            </label>
+            </foreach>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">文章摘要</label>
+            <textarea name="digest" rows="2.5" cols=""  class="form-control">{$oldData['digest']}</textarea>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">文章关键字</label>
+            <textarea name="keywords" rows="2.5" cols=""  class="form-control">{$oldData['keywords']}</textarea>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">文章描述</label>
+            <textarea name="des" rows="2.5" cols=""  class="form-control">{$oldData['des']}</textarea>
+        </div>
+        <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor1_4_3/ueditor.config.js"></script>
+        <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor1_4_3/ueditor.all.min.js"> </script>
+        <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor1_4_3/lang/zh-cn/zh-cn.js"></script>
+        <div class="form-group">
+            <label for="exampleInputEmail1">文章正文</label>
+            <script id="editor" type="text/plain" style="width:100%;height:200px;" name="content">{$oldData['content']}</script>
+            <script>
+                var ue = UE.getEditor('editor');
+            </script>
+        </div>
+        <input type="hidden" name="aid" value="{$_GET['aid']}"/>
+        <button class="btn btn-primary btn-block" type="submit"> 确定 </button>
+        </form>
+    </body>
+</html>

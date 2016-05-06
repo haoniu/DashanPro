@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>大山博客</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- 包含头部 -->
+<include file="./Application/Home/View/Common/header.html" />
+
+<style type="text/css">
+  h2.count{
+    height: 70px;
+    line-height: 70px;
+    padding-left: 26%;
+  }
+  h2.count span:nth-child(1){
+    padding-right: 60px;
+  }
+
+</style>
+
+<article>
+    <div class="blog">
+      <h2 class="count"><span>当前{$headData['type']}：{$headData['type_name']}</span><span>共{$headData['totalArc']}篇文章</span></h2>
+    </div>
+    
+    <div class="blank"></div>
+
+    <foreach name="arcData" item="v">
+    <div class="blog">
+      <h2><foreach name="v['tag']" item="vv" key="kk">
+      <a href="{:U('Lists/index',array('tid'=>$kk))}">{$vv} &nbsp; </a>
+      </foreach></h2>
+      <ul>
+        <notempty name="v['thumb']">
+        <img src="__ROOT__/{$v['thumb']}">
+        <else />
+        <img src="__PUBLIC__/Home/images/01.jpg">
+        </notempty>
+        <h3 class="title"><a href="{:U('Content/index',array('aid'=>$v['aid']))}" id="pic01">{$v['title']}</a></h3>
+        <p>{$v['digest']}</p>
+      </ul>
+    </div>
+    </foreach>
+
+</article>
+</body>
+</html>

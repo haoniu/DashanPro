@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>查看分类</title>
+     <link href="__PUBLIC__/Admin/Flat/dist/css/vendor/bootstrap.min.css" rel="stylesheet">
+        <!-- Loading Flat UI -->
+        <link href="__PUBLIC__/Admin/Flat/dist/css/flat-ui.css" rel="stylesheet">
+        <link href="__PUBLIC__/Admin/Flat/docs/assets/css/demo.css" rel="stylesheet">
+        <link rel="shortcut icon" href="__PUBLIC__/Admin/Flat/img/favicon.ico">
+</head>
+<body>
+    <table class="table table-hover">
+            <tr class="active">
+              <th width="30">cid</th>
+              <th>分类名称</th>
+              <th width="120">排序</th>
+    
+              <th width="210">操作</th>
+            </tr>
+            <foreach name="data" item="v">
+            <tr>
+                <td>{$v.cid}</td>
+                <td>{$v._name}</td>
+                <td>{$v.csort}</td>
+                <td>
+                    <a href="{:U('addSon',array('cid'=>$v['cid']))}" class="btn btn-sm btn-primary">添加子类</a>
+                    <a href="{:U('edit',array('cid'=>$v['cid']))}" class="btn btn-sm btn-warning">编辑</a>
+                    <eq name="v.total" value="0">
+                    <a href="javascript:;" class="btn btn-sm btn-danger" onclick="if(confirm('确定删除吗')) location.href='{:U('del',array('cid'=>$v['cid']))}'">删除</a>
+                    </eq>
+                </td>
+            </tr>
+            </foreach>
+        </table>
+</body>
+</html>

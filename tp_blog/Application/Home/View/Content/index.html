@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="gb2312">
+<title>大山博客</title>
+<meta name="keywords" content="大山个人博客网站" />
+<meta name="description" content="大山个人原创博客" />
+
+<!-- 包含头部 -->
+<include file="./Application/Home/View/Common/header.html" />
+
+<style type="text/css">
+  h2.count{
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+  }
+  h2.tag{
+    overflow: hidden;
+  }
+  h2.tag a{
+    float: right;
+    padding-right: 30px;
+  }
+  h2.tag span{
+    float: left;
+    padding-left: 10%;
+    font-size: 14px;
+  }
+  div.content{
+    width: 86%;
+    margin: 0 auto;
+    margin-top: 10px;;
+    font-size: 14px;
+  }
+  h2.sendtime{
+    font-size: 14px;
+    text-align: right;
+    padding-right: 20px;
+  }
+  h2.sendtime span{
+    font-size: 16px;
+  }
+
+</style>
+  <!-- 多说评论框样式 -->
+  <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/duoshuo.css">
+
+
+<article>
+
+    <div class="blank"></div>
+
+    <div class="blog">
+      <h2 class="count" style="font-family: Helvetica Neue,​​Helvetica,​​Arial;">{$arcData['title']}</h2>
+      <h2 class="tag"><span>作者：{$arcData['author']}</span><foreach name="arcData['tag']" item="v" key="k">
+      <a href="{:U('Lists/index',array('tid'=>$k))}">{$v} &nbsp; </a>
+      </foreach></h2>
+      <div class="content">{$arcData['content']|htmlspecialchars_decode}</div>
+      <h2 class="sendtime">发布时间：<span>{$arcData['sendtime']|date="Y-m-d H:i:s",###}</span></h2>
+    </div>
+      <!-- 多说评论框 start -->
+    <div class="ds-thread" data-thread-key="{{$arcData['aid']}}" data-title="{{$arcData['title']}}" data-url="{{U('Content/index',array('aid'=>$arcData['aid']))}}"></div>
+    <!-- 多说评论框 end -->
+    <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+    <script type="text/javascript">
+      var duoshuoQuery = {short_name:"ouxiaohao"};
+      (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+         || document.getElementsByTagName('body')[0]).appendChild(ds);
+      })();
+    </script>
+<!-- 多说公共JS代码 end -->
+    <div style="height: 30px;"></div>
+
+</article>
+</body>
+</html>

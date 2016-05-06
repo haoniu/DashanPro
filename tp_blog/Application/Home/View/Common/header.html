@@ -1,0 +1,24 @@
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<link href="__PUBLIC__/Home/css/index.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="js/modernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+<header>
+  <h1><a href="/">OuHao</a></h1>
+  <p>有一种思念，是淡淡的幸福；有一种幸福，是常常的牵挂；有一种牵挂，是远远地欣赏.......</p>
+</header>
+<div class="navswf">
+<object id="customMenu" data="__PUBLIC__/Home/images/nav.swf" width="528" height="70" type="application/x-shockwave-flash"><param name="allowScriptAccess" value="always"><param name="allownetworking" value="all"><param name="allowFullScreen" value="true"><param name="wmode" value="transparent"><param name="menu" value="false"><param name="scale" value="noScale"><param name="salign" value="1"></object>
+<nav id="nav">
+     <ul>
+       <li><a href="{:U('Index/index')}">网站首页</a></li>
+       <foreach name="cateData" item="v">
+       <li><a href="{:U('Lists/index',array('cid'=>$v['cid']))}">{$v['cname']}</a></li>
+       </foreach>
+     </ul>
+     <script src="__PUBLIC__/Home/js/silder.js"></script>
+</nav>
+</div>
