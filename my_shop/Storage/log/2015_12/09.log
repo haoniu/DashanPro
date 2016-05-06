@@ -1,0 +1,196 @@
+[ 2015-12-09T09:53:04+08:00 ]NOTICE: Undefined index: olidE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (49).
+[ 2015-12-09T09:53:04+08:00 ]EXCEPTION: SELECT  *  FROM order_add WHERE olid= LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1' at line 1
+[ 2015-12-09T10:42:46+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::add() must be of the type array, object given, called in E:\wamp\www\my_shop\App\Common\Model\Order.php on line 23 and definedE:\wamp\www\my_shop\Hdphp\Model\Model.php (488).
+[ 2015-12-09T10:43:03+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::add() must be of the type array, object given, called in E:\wamp\www\my_shop\App\Common\Model\Order.php on line 23 and definedE:\wamp\www\my_shop\Hdphp\Model\Model.php (488).
+[ 2015-12-09T10:43:50+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::add() must be of the type array, object given, called in E:\wamp\www\my_shop\App\Common\Model\Order.php on line 23 and definedE:\wamp\www\my_shop\Hdphp\Model\Model.php (488).
+[ 2015-12-09T10:44:28+08:00 ]NOTICE: Array to string conversionE:\wamp\www\my_shop\Hdphp\Db\Mysql.php (204).
+[ 2015-12-09T10:44:28+08:00 ]EXCEPTION: INSERT INTO order (`537bace8`,`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 
+  array (
+    'id' => '17',
+    'name' => '最新款针织杉爆款',
+    'num' => 2,
+    'price' => '123',
+    'options' => 
+    array (
+      '颜色' => '红色',
+      '尺码' => 'S',
+    ),
+    'total' => 246,
+  ),
+  1 => '4',
+  2 => '12',
+  3 => '黑龙江,哈尔滨,道里区,12,1',
+  4 => '12',
+  5 => '12',
+  6 => '1',
+  7 => 'E1209290689585563',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`537bace8`,`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES' at line 1
+[ 2015-12-09T10:45:40+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209291404347804',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T10:59:32+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209299727501503',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:12:48+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209307688043971',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:17:12+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209310321619932',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:21:28+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209312886342967',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:25:55+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209315551346699',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:28:02+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209316823259878',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:28:06+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209316864511352',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:28:10+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209316906994777',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:28:43+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209317237810775',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:29:18+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209317581521473',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:29:51+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209317910342666',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:30:27+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209318277483553',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T11:44:03+08:00 ]EXCEPTION: INSERT INTO order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '12',
+  2 => '黑龙江,哈尔滨,道里区,12,1',
+  3 => '12',
+  4 => '12',
+  5 => '1',
+  6 => 'E1209326438680743',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`oaid`,`consignee`,`add`,`code`,`mobile`,`uid`,`number`)VALUES('4','12','' at line 1
+[ 2015-12-09T15:32:49+08:00 ]EXCEPTION: INSERT INTO order_add (`oaid`,`add`,`uid`)VALUES(?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '1',
+  2 => '1',
+)23000;1062;Duplicate entry '4' for key 'PRIMARY'
+[ 2015-12-09T15:33:00+08:00 ]EXCEPTION: INSERT INTO order_add (`oaid`,`add`,`uid`)VALUES(?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '1',
+  2 => '1',
+)23000;1062;Duplicate entry '4' for key 'PRIMARY'
+[ 2015-12-09T15:33:37+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 48 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (33).
+[ 2015-12-09T15:42:44+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 47 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (33).
+[ 2015-12-09T15:44:37+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 47 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (33).
+[ 2015-12-09T15:46:22+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 47 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (33).
+[ 2015-12-09T15:47:21+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 47 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (33).
+[ 2015-12-09T15:47:41+08:00 ]NOTICE: Missing argument 1 for Common\Model\Order::store(), called in E:\wamp\www\my_shop\App\Home\Controller\OrderController.php on line 47 and definedE:\wamp\www\my_shop\App\Common\Model\Order.php (30).
+[ 2015-12-09T15:55:19+08:00 ]EXCEPTION: INSERT INTO order_add (`oaid`,`add`,`uid`)VALUES(?,?,?) ;BindParams:array (
+  0 => '4',
+  1 => '1',
+  2 => '1',
+)23000;1062;Duplicate entry '4' for key 'PRIMARY'
+[ 2015-12-09T17:24:30+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (21).
+[ 2015-12-09T17:24:30+08:00 ]EXCEPTION: SELECT  *  FROM order_add WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-09T20:08:03+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Common\Model\OrderAdd.php (26).
+[ 2015-12-09T20:08:03+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Common\Model\OrderAdd.php (28).
+[ 2015-12-09T20:08:46+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (21).
+[ 2015-12-09T20:08:46+08:00 ]EXCEPTION: SELECT  *  FROM order_add WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-09T20:08:51+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (21).
+[ 2015-12-09T20:08:51+08:00 ]EXCEPTION: SELECT  *  FROM order_add WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-09T20:09:02+08:00 ]NOTICE: Undefined index: specE:\wamp\www\my_shop\App\Home\Controller\CartController.php (56).
+[ 2015-12-09T20:09:02+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\App\Home\Controller\CartController.php (56).
+[ 2015-12-09T20:09:02+08:00 ]NOTICE: Undefined variable: goods_attrE:\wamp\www\my_shop\App\Home\Controller\CartController.php (61).
+[ 2015-12-09T20:09:02+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\App\Home\Controller\CartController.php (61).
+[ 2015-12-09T21:02:25+08:00 ]NOTICE: Use of undefined constant phpData - assumed 'phpData'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (86).
+[ 2015-12-09T21:03:23+08:00 ]NOTICE: Use of undefined constant phpData - assumed 'phpData'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (86).
+[ 2015-12-09T21:04:37+08:00 ]NOTICE: Use of undefined constant phpData - assumed 'phpData'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (86).
+[ 2015-12-09T21:11:44+08:00 ]NOTICE: Use of undefined constant phpData - assumed 'phpData'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (86).
+[ 2015-12-09T21:14:01+08:00 ]NOTICE: Use of undefined constant phpData - assumed 'phpData'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (86).

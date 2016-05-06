@@ -1,0 +1,119 @@
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Undefined variable: addDataE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (140).
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Undefined variable: cartDataE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Undefined variable: cartDataE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Undefined variable: cartDataE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:01:53+08:00 ]NOTICE: Undefined variable: cartDataE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:05:47+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:47+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:47+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:05:47+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:05:47+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:05:52+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:13+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:13+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:13+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:13+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:13+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:22+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:38+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:38+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:38+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:38+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:38+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:43+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:43+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:43+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:43+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:43+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T11:06:44+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:44+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T11:06:44+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T11:06:44+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T11:06:44+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T14:02:22+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (19).
+[ 2015-12-11T14:03:52+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (19).
+[ 2015-12-11T14:03:53+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (19).
+[ 2015-12-11T14:10:25+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (20).
+[ 2015-12-11T14:11:46+08:00 ]NOTICE: Array to string conversionE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (17).
+[ 2015-12-11T14:20:03+08:00 ]NOTICE: explode() expects parameter 2 to be string, array givenE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (19).
+[ 2015-12-11T14:21:13+08:00 ]NOTICE: Array to string conversionE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (19).
+[ 2015-12-11T16:15:03+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:15:03+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:15:03+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T16:15:03+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:15:03+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T16:18:30+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:30+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:30+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:18:46+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:46+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:46+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:18:51+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:51+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:51+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:18:55+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:55+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:18:55+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:19:32+08:00 ]NOTICE: Undefined index: goodsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:19:32+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (181).
+[ 2015-12-11T16:19:32+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'name'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (183).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'price'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (184).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'num'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (185).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'total'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (186).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'name'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (183).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'price'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (184).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'num'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (185).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'total'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (186).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'name'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (183).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'price'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (184).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'num'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (185).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Illegal string offset 'total'E:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (186).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Undefined index: nameE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (183).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Undefined index: priceE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (184).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Undefined index: numE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (185).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (186).
+[ 2015-12-11T16:24:19+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:24:44+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (196).
+[ 2015-12-11T16:24:44+08:00 ]NOTICE: Undefined index: total_rowsE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (208).
+[ 2015-12-11T16:24:44+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\Storage\view\compile\27dfbd60d443b92731eb83c8a7886759.php (212).
+[ 2015-12-11T16:29:06+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:29:06+08:00 ]NOTICE: Undefined index: allTotalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:29:06+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:29:59+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (30).
+[ 2015-12-11T16:29:59+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (30).
+[ 2015-12-11T16:30:38+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:30:38+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:30:45+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:30:45+08:00 ]NOTICE: Undefined index: totalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (29).
+[ 2015-12-11T16:35:21+08:00 ]NOTICE: Undefined index: allTotalE:\wamp\www\my_shop\App\Home\Controller\OrderController.php (32).
+[ 2015-12-11T17:55:11+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (36).
+[ 2015-12-11T17:55:38+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (36).
+[ 2015-12-11T17:55:38+08:00 ]NOTICE: Undefined variable: variableE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (38).
+[ 2015-12-11T17:55:38+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\App\Common\Model\GoodsList.php (38).
+[ 2015-12-11T17:57:31+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (36).
+[ 2015-12-11T17:58:13+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (36).
+[ 2015-12-11T17:58:13+08:00 ]NOTICE: Undefined variable: variableE:\wamp\www\my_shop\App\Common\Model\GoodsList.php (38).
+[ 2015-12-11T17:58:13+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\App\Common\Model\GoodsList.php (38).
+[ 2015-12-11T20:45:59+08:00 ]NOTICE: Argument 1 passed to Hdphp\Model\Model::save() must be of the type array, string given, called in E:\wamp\www\my_shop\App\Common\Model\GoodsList.php on line 47 and definedE:\wamp\www\my_shop\Hdphp\Model\Model.php (533).
+[ 2015-12-11T20:45:59+08:00 ]EXCEPTION: gnumber=127 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'gnumber=127' at line 1

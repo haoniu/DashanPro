@@ -1,0 +1,70 @@
+[ 2015-11-24T10:55:07+08:00 ]EXCEPTION: Admin\Controller\IndexController 不存在
+[ 2015-11-24T11:03:50+08:00 ]EXCEPTION: Admin\Controller\IndexController 不存在
+[ 2015-11-24T11:03:51+08:00 ]EXCEPTION: Admin\Controller\IndexController 不存在
+[ 2015-11-24T11:14:13+08:00 ]EXCEPTION: Admin\Controller\IndexController 不存在
+[ 2015-11-24T11:38:59+08:00 ]EXCEPTION: Admin\Controller\LoginController 不存在
+[ 2015-11-24T14:28:27+08:00 ]EXCEPTION: SELECT  *  FROM user WHERE username=1 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-24T14:30:49+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:30:51+08:00 ]EXCEPTION: Admin\Controller\U(IndexController 不存在
+[ 2015-11-24T14:32:02+08:00 ]EXCEPTION: Admin\Controller\U(IndexController 不存在
+[ 2015-11-24T14:32:29+08:00 ]EXCEPTION: Admin\Controller\U(IndexController 不存在
+[ 2015-11-24T14:32:43+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:32:47+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:32:55+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:33:00+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:33:03+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Common\Model\User.php (36).
+[ 2015-11-24T14:45:37+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username=Sam LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Sam' in 'where clause'
+[ 2015-11-24T14:47:30+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username=Sam LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Sam' in 'where clause'
+[ 2015-11-24T14:47:32+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username=Sam LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'Sam' in 'where clause'
+[ 2015-11-24T14:47:47+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username=sss LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'sss' in 'where clause'
+[ 2015-11-24T16:05:30+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username=sam LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'sam' in 'where clause'
+[ 2015-11-24T16:53:11+08:00 ]EXCEPTION: Home\Controller\LoginController 不存在
+[ 2015-11-24T17:00:45+08:00 ]NOTICE: Undefined index: valueE:\wamp\www\my_shop\Hdphp\View\HdphpTag.php (164).
+[ 2015-11-24T17:25:42+08:00 ]EXCEPTION: 模板不存在:App/Home/View/Login/index.php
+[ 2015-11-24T20:38:41+08:00 ]EXCEPTION: INSERT INTO user (`uname`,`name`,`sex`,`email`,`mobile`,`qq`,`password`,`cpassword`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '123',
+  1 => '123',
+  2 => '男',
+  3 => '123@12.com',
+  4 => '13935276978',
+  5 => '1444444',
+  6 => '2a36d0c965d8c5f9fbbc4c67aca99b5b',
+  7 => '123',
+)42S22;1054;Unknown column 'cpassword' in 'field list'
+[ 2015-11-24T20:41:29+08:00 ]NOTICE: Undefined variable: passwordE:\wamp\www\my_shop\App\Home\Controller\RegistController.php (11).
+[ 2015-11-24T20:44:31+08:00 ]EXCEPTION: INSERT INTO user (`uname`,`name`,`sex`,`email`,`mobile`,`qq`,`password`,`cpassword`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '123',
+  1 => '123',
+  2 => '男',
+  3 => '123@12.com',
+  4 => '13935276978',
+  5 => '13333333',
+  6 => '2a36d0c965d8c5f9fbbc4c67aca99b5b',
+  7 => '123',
+)42S22;1054;Unknown column 'cpassword' in 'field list'
+[ 2015-11-24T21:05:04+08:00 ]EXCEPTION: INSERT INTO user (`uname`,`name`,`sex`,`email`,`mobile`,`qq`,`password`,`cpassword`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '123',
+  1 => '123',
+  2 => '男',
+  3 => '123@123.com',
+  4 => '13935276978',
+  5 => '133333',
+  6 => '2a36d0c965d8c5f9fbbc4c67aca99b5b',
+  7 => '123',
+)42S22;1054;Unknown column 'cpassword' in 'field list'
+[ 2015-11-24T21:08:07+08:00 ]EXCEPTION: INSERT INTO user (`uname`,`name`,`sex`,`email`,`mobile`,`qq`,`password`,`cpassword`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => '123',
+  1 => '123',
+  2 => '男',
+  3 => '123@12.com',
+  4 => '13935276978',
+  5 => '1333333',
+  6 => 'a8aab82e1bdd59bbf63a95c72e666924',
+  7 => '1',
+)42S22;1054;Unknown column 'cpassword' in 'field list'

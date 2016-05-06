@@ -1,0 +1,11 @@
+[ 2015-12-15T08:51:55+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\my_shop\App\Home\Controller\UserController.php (16).
+[ 2015-12-15T08:51:55+08:00 ]EXCEPTION: SELECT  *  FROM orders WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-15T20:26:43+08:00 ]NOTICE: Undefined index: specE:\wamp\www\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-15T20:26:43+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-15T20:26:43+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+[ 2015-12-15T20:26:46+08:00 ]NOTICE: Undefined index: specE:\wamp\www\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-15T20:26:46+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-15T20:26:46+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1

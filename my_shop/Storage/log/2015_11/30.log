@@ -1,0 +1,69 @@
+[ 2015-11-30T09:51:50+08:00 ]NOTICE: Undefined variable: arcDataModelE:\wamp\www\my_shop\App\Common\Model\Goods.php (75).
+[ 2015-11-30T10:00:02+08:00 ]NOTICE: Undefined index: valueE:\wamp\www\my_shop\Hdphp\View\HdphpTag.php (134).
+[ 2015-11-30T10:13:57+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Goods/del.php
+[ 2015-11-30T10:25:23+08:00 ]NOTICE: Undefined variable: gidE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (72).
+[ 2015-11-30T10:25:23+08:00 ]EXCEPTION: DELETE FROM goods_attr WHERE gid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-11-30T10:35:32+08:00 ]NOTICE: Undefined index: timeE:\wamp\www\my_shop\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (33).
+[ 2015-11-30T10:35:32+08:00 ]NOTICE: Undefined index: timeE:\wamp\www\my_shop\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (33).
+[ 2015-11-30T10:35:32+08:00 ]NOTICE: Undefined index: timeE:\wamp\www\my_shop\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (33).
+[ 2015-11-30T10:35:32+08:00 ]NOTICE: Undefined index: timeE:\wamp\www\my_shop\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (33).
+[ 2015-11-30T10:35:32+08:00 ]NOTICE: Undefined index: timeE:\wamp\www\my_shop\Storage\view\compile\cdaf1e7d3fd0104d7450493dfb6fc61e.php (33).
+[ 2015-11-30T10:43:48+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php6C54.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:43:48+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php6C55.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:51:47+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\phpBD43.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:51:47+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\phpBDC1.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:52:12+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php2044.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:52:12+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php2045.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:59:12+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php879E.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T10:59:12+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\php87AF.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T14:11:46+08:00 ]NOTICE: Undefined index: valueE:\wamp\www\my_shop\Hdphp\View\HdphpTag.php (164).
+[ 2015-11-30T15:33:48+08:00 ]NOTICE: getimagesize(E:\wamp\tmp\phpEF50.tmp): failed to open stream: No such file or directoryE:\wamp\www\my_shop\Hdphp\Upload\Upload.php (190).
+[ 2015-11-30T16:41:03+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (107).
+[ 2015-11-30T16:41:03+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (107).
+[ 2015-11-30T16:41:03+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (118).
+[ 2015-11-30T16:41:03+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (118).
+[ 2015-11-30T16:47:18+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:47:18+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:47:18+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:47:18+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:53:00+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:53:00+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:53:00+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:53:00+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:53:37+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:53:37+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:53:37+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:53:37+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:58:47+08:00 ]NOTICE: Undefined variable: oldDrtailE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (75).
+[ 2015-11-30T16:58:47+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:58:47+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:58:47+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:58:47+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:59:21+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:59:21+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:59:21+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:59:21+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:59:31+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:59:31+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T16:59:31+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T16:59:31+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T17:01:40+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T17:01:40+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (28).
+[ 2015-11-30T17:01:40+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T17:01:40+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\d1789a3e220e607bb98342c6e716939b.php (40).
+[ 2015-11-30T17:30:11+08:00 ]EXCEPTION: SELECT  *  FROM type_attr WHERE gid=13 LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'gid' in 'where clause'
+[ 2015-11-30T19:11:37+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\my_shop\Storage\view\compile\b0cef37a0386a1faffd967a594ec1e7e.php (98).
+[ 2015-11-30T19:11:37+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\b0cef37a0386a1faffd967a594ec1e7e.php (98).
+[ 2015-11-30T19:11:37+08:00 ]NOTICE: Undefined variable: brandsE:\wamp\www\my_shop\Storage\view\compile\b0cef37a0386a1faffd967a594ec1e7e.php (110).
+[ 2015-11-30T19:11:37+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\b0cef37a0386a1faffd967a594ec1e7e.php (110).
+[ 2015-11-30T20:02:27+08:00 ]NOTICE: Undefined variable: valueE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (35).
+[ 2015-11-30T20:02:27+08:00 ]NOTICE: Undefined variable: valueE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (35).
+[ 2015-11-30T20:02:27+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (47).
+[ 2015-11-30T20:02:55+08:00 ]NOTICE: Undefined variable: gidE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (39).
+[ 2015-11-30T20:02:55+08:00 ]NOTICE: Undefined variable: gidE:\wamp\www\my_shop\App\Admin\Controller\GoodsController.php (39).
+[ 2015-11-30T22:36:04+08:00 ]EXCEPTION: SELECT  *  FROM goods_attr INNER JOIN type_attr ON taid = taid WHERE gid=16 AND class=0 ;BindParams:array (
+)23000;1052;Column 'taid' in on clause is ambiguous
+[ 2015-11-30T22:37:07+08:00 ]EXCEPTION: SELECT  *  FROM goods_attr INNER JOIN type_attr ON taid = goods_attr_taid WHERE gid=16 AND class=0 ;BindParams:array (
+)23000;1052;Column 'taid' in on clause is ambiguous

@@ -1,0 +1,28 @@
+[ 2015-12-28T08:59:41+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\UserController.php (16).
+[ 2015-12-28T08:59:42+08:00 ]EXCEPTION: SELECT  *  FROM orders WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-28T09:01:19+08:00 ]NOTICE: Undefined index: uidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\UserController.php (16).
+[ 2015-12-28T09:01:19+08:00 ]EXCEPTION: SELECT  *  FROM orders WHERE uid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-12-28T09:22:43+08:00 ]EXCEPTION: Method Home\Controller\UserController::details() does not exist
+[ 2015-12-28T09:53:59+08:00 ]EXCEPTION: 模板不存在:App/Home/View/User/details.php
+[ 2015-12-28T09:54:40+08:00 ]EXCEPTION: 模板不存在:App/Home/View/User/details.php
+[ 2015-12-28T09:54:53+08:00 ]EXCEPTION: 模板不存在:App/Home/View/User/details.php
+[ 2015-12-28T09:55:14+08:00 ]EXCEPTION: 模板不存在:App/Home/View/User/details.php
+[ 2015-12-28T10:01:15+08:00 ]EXCEPTION: SELECT  *  FROM order_list WHERE uid=0 ;BindParams:array (
+)42S22;1054;Unknown column 'uid' in 'where clause'
+[ 2015-12-28T10:26:03+08:00 ]NOTICE: Division by zeroE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\45c0438f04975c19d5817be2723ec52b.php (173).
+[ 2015-12-28T10:26:03+08:00 ]NOTICE: Division by zeroE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\45c0438f04975c19d5817be2723ec52b.php (173).
+[ 2015-12-28T10:40:11+08:00 ]NOTICE: Undefined index: sendtimeE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (180).
+[ 2015-12-28T10:40:11+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (181).
+[ 2015-12-28T10:40:11+08:00 ]NOTICE: Undefined index: oidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (202).
+[ 2015-12-28T10:40:28+08:00 ]NOTICE: Undefined index: sendtimeE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (180).
+[ 2015-12-28T10:40:28+08:00 ]NOTICE: Undefined index: numberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (181).
+[ 2015-12-28T10:40:28+08:00 ]NOTICE: Undefined index: oidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (202).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T20:16:10+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\0c28e7150ba5d668f4a1564650d3d0d8.php (218).
+[ 2015-12-28T21:08:02+08:00 ]NOTICE: Undefined variable: goodsModelE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (63).

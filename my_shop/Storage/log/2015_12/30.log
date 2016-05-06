@@ -1,0 +1,136 @@
+[ 2015-12-30T11:07:08+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (33).
+[ 2015-12-30T11:13:19+08:00 ]NOTICE: Undefined variable: categotyDataE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T11:23:52+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:23:52+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:24:21+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:24:21+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:24:21+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:24:21+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:25:17+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:25:17+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:26:26+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:26:26+08:00 ]NOTICE: Array to string conversionE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (288).
+[ 2015-12-30T11:28:45+08:00 ]NOTICE: Undefined variable: goodsDataE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T11:41:29+08:00 ]NOTICE: Use of undefined constant Index - assumed 'Index'E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9c5abaaa6f02cf73c9209d43230d6294.php (123).
+[ 2015-12-30T11:41:29+08:00 ]NOTICE: Use of undefined constant index - assumed 'index'E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9c5abaaa6f02cf73c9209d43230d6294.php (123).
+[ 2015-12-30T11:41:29+08:00 ]NOTICE: Division by zeroE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9c5abaaa6f02cf73c9209d43230d6294.php (123).
+[ 2015-12-30T15:37:02+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9fcfcf767ffd6394076da9bdff99b8ac.php (113).
+[ 2015-12-30T15:37:02+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9fcfcf767ffd6394076da9bdff99b8ac.php (113).
+[ 2015-12-30T15:38:09+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (113).
+[ 2015-12-30T15:38:09+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (113).
+[ 2015-12-30T15:38:15+08:00 ]NOTICE: Undefined variable: cateDataE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (113).
+[ 2015-12-30T15:38:15+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\e724b0ed1cb23b11b92d5066d08074b9.php (113).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:20:58+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:21:11+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:21:16+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:21:17+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:21:23+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:23:04+08:00 ]EXCEPTION: Home\Controller\ListsController 不存在
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:24:03+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: cidE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\GoodsController.php (42).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (290).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: picE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (299).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: gnameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (315).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: shoppriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (320).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: marketpriceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (321).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: clickE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (324).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: gnumberE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (328).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: gidE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (363).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: introE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (395).
+[ 2015-12-30T19:34:37+08:00 ]NOTICE: Undefined index: serviceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (401).
+[ 2015-12-30T19:49:09+08:00 ]EXCEPTION: Method Home\Controller\GoodsController::22index() does not exist
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:15:04+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: nameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (85).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: priceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (86).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: nameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (85).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: priceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (86).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: nameE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (85).
+[ 2015-12-30T20:19:09+08:00 ]NOTICE: Undefined index: priceE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (86).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Missing argument 1 for Hdphp\Db\Mysql::pluck()E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1055).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined variable: fieldE:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:19:40+08:00 ]NOTICE: Undefined index: E:\wamp\www\DS_SHOP\my_shop\Hdphp\Db\Mysql.php (1060).
+[ 2015-12-30T20:29:11+08:00 ]NOTICE: Undefined index: sidE:\wamp\www\DS_SHOP\my_shop\Hdphp\Cart\Cart.php (185).
+[ 2015-12-30T20:29:11+08:00 ]NOTICE: Undefined index: sidE:\wamp\www\DS_SHOP\my_shop\Hdphp\Cart\Cart.php (185).
+[ 2015-12-30T20:29:11+08:00 ]NOTICE: Undefined index: sidE:\wamp\www\DS_SHOP\my_shop\Hdphp\Cart\Cart.php (185).
+[ 2015-12-30T20:29:11+08:00 ]NOTICE: Undefined index: sidE:\wamp\www\DS_SHOP\my_shop\Hdphp\Cart\Cart.php (185).
+[ 2015-12-30T20:33:28+08:00 ]EXCEPTION: Method Home\Controller\CartController::scartDel() does not exist
+[ 2015-12-30T20:37:55+08:00 ]EXCEPTION: Method Home\Controller\IndexController::cartDel() does not exist
+[ 2015-12-30T20:38:13+08:00 ]EXCEPTION: Method Home\Controller\IndexController::cartDel() does not exist
+[ 2015-12-30T20:38:43+08:00 ]EXCEPTION: Method Home\Controller\IndexController::cartDel() does not exist
+[ 2015-12-30T21:00:07+08:00 ]NOTICE: Undefined variable: pageE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9c5abaaa6f02cf73c9209d43230d6294.php (212).
+[ 2015-12-30T21:03:57+08:00 ]NOTICE: Undefined variable: pageE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\9c5abaaa6f02cf73c9209d43230d6294.php (212).

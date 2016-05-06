@@ -1,0 +1,2 @@
+[ 2016-02-29T17:55:09+08:00 ]EXCEPTION: show columns from `category` ;BindParams:array (
+)42S02;1146;Table 'shop.category' doesn't exist

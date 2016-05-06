@@ -1,0 +1,46 @@
+[ 2015-11-25T09:34:04+08:00 ]NOTICE: Undefined variable: dataE:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (28).
+[ 2015-11-25T09:34:04+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (28).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tid'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (31).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tname'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (32).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tsort'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (33).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tid'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (31).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tname'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (32).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tsort'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (33).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tid'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (31).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tname'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (32).
+[ 2015-11-25T10:48:41+08:00 ]NOTICE: Illegal string offset 'tsort'E:\wamp\www\my_shop\Storage\view\compile\dd39ce05a282cea06b169c209effb00f.php (33).
+[ 2015-11-25T11:08:25+08:00 ]NOTICE: Use of undefined constant tsort - assumed 'tsort'E:\wamp\www\my_shop\Storage\view\compile\1b15b96793bba9a11fbcd31653b0574f.php (29).
+[ 2015-11-25T11:14:30+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username='sam' LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-25T11:14:59+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username='sam' LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-25T12:15:23+08:00 ]NOTICE: Undefined variable: tidE:\wamp\www\my_shop\App\Common\Model\Type.php (46).
+[ 2015-11-25T12:15:23+08:00 ]EXCEPTION: DELETE FROM type WHERE tid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-11-25T12:16:43+08:00 ]NOTICE: Undefined variable: tidE:\wamp\www\my_shop\App\Common\Model\Type.php (46).
+[ 2015-11-25T12:16:43+08:00 ]EXCEPTION: DELETE FROM type WHERE tid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-11-25T12:18:54+08:00 ]NOTICE: Undefined variable: tidE:\wamp\www\my_shop\App\Common\Model\Type.php (46).
+[ 2015-11-25T12:18:54+08:00 ]EXCEPTION: DELETE FROM type WHERE tid= ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[ 2015-11-25T14:04:10+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username='1' LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-25T14:04:29+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username='1' LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-25T14:04:53+08:00 ]EXCEPTION: SELECT  *  FROM adminuser WHERE username='1' LIMIT 1 ;BindParams:array (
+)42S22;1054;Unknown column 'username' in 'where clause'
+[ 2015-11-25T14:47:23+08:00 ]EXCEPTION: 模板不存在:App/Admin/View/Type/attr.php
+[ 2015-11-25T15:10:22+08:00 ]EXCEPTION: Method Admin\Controller\AttrController::add() does not exist
+[ 2015-11-25T15:14:49+08:00 ]EXCEPTION: Admin\Controller\CategoryController 不存在
+[ 2015-11-25T15:28:43+08:00 ]EXCEPTION: Admin\Controller\CategoryController 不存在
+[ 2015-11-25T15:48:47+08:00 ]EXCEPTION: Admin\Controller\CategoryController 不存在
+[ 2015-11-25T16:42:20+08:00 ]NOTICE: Undefined index: valueE:\wamp\www\my_shop\Hdphp\View\HdphpTag.php (154).
+[ 2015-11-25T16:51:42+08:00 ]NOTICE: Undefined index: valueE:\wamp\www\my_shop\Hdphp\View\HdphpTag.php (154).
+[ 2015-11-25T19:33:37+08:00 ]EXCEPTION: INSERT INTO type_attr (`taname`,`class`,`tavalue`,`type_tid`)VALUES(?,?,?,?) ;BindParams:array (
+  0 => '444',
+  1 => '规格',
+  2 => '444',
+  3 => NULL,
+)23000;1048;Column 'type_tid' cannot be null
+[ 2015-11-25T21:08:02+08:00 ]EXCEPTION: Method Admin\Controller\IndexController::() does not exist
+[ 2015-11-25T21:12:33+08:00 ]NOTICE: Undefined variable: tidE:\wamp\www\my_shop\Storage\view\compile\97e9a9e7de98394a47d5e230af971eba.php (23).

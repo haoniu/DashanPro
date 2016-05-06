@@ -1,0 +1,27 @@
+[ 2015-12-20T17:37:44+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T17:37:44+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T17:37:52+08:00 ]NOTICE: Undefined index: specE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T17:37:52+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T17:37:52+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+[ 2015-12-20T17:37:55+08:00 ]NOTICE: Undefined index: specE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T17:37:55+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T17:37:55+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+[ 2015-12-20T17:37:57+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T17:37:57+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:21:12+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:21:12+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:21:39+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:21:39+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:44:07+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:45:42+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).
+[ 2015-12-20T18:45:48+08:00 ]NOTICE: Undefined index: specE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T18:45:48+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T18:45:48+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+[ 2015-12-20T18:46:33+08:00 ]NOTICE: Undefined index: specE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T18:46:33+08:00 ]NOTICE: implode(): Invalid arguments passedE:\wamp\www\DS_SHOP\my_shop\App\Home\Controller\CartController.php (58).
+[ 2015-12-20T18:46:33+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine in() LIMIT 1 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+[ 2015-12-20T18:47:16+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\DS_SHOP\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (302).

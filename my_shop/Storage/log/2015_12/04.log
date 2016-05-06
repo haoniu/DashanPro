@@ -1,0 +1,14 @@
+[ 2015-12-04T08:41:08+08:00 ]EXCEPTION: SELECT  *  FROM goods_attr INNER JOIN type_attr ON type_attr.taid = goods_attr.taid WHERE gtid IN() AND class='1'  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND class='1'' at line 1
+[ 2015-12-04T08:41:30+08:00 ]EXCEPTION: SELECT  *  FROM goods_attr INNER JOIN type_attr ON type_attr.taid = goods_attr.taid WHERE gtid IN() AND class='1'  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND class='1'' at line 1
+[ 2015-12-04T08:42:20+08:00 ]EXCEPTION: SELECT  *  FROM goods_attr INNER JOIN type_attr ON type_attr.taid = goods_attr.taid WHERE gtid IN() AND class='1'  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND class='1'' at line 1
+[ 2015-12-04T08:47:30+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (153).
+[ 2015-12-04T08:47:30+08:00 ]NOTICE: Invalid argument supplied for foreach()E:\wamp\www\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (153).
+[ 2015-12-04T08:53:44+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (152).
+[ 2015-12-04T08:53:46+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\my_shop\Storage\view\compile\1a9e01799fddf280d38ee7c98c8d2ae2.php (152).
+[ 2015-12-04T08:54:46+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\my_shop\App\Home\Controller\GoodsController.php (58).
+[ 2015-12-04T08:57:44+08:00 ]NOTICE: Undefined variable: specE:\wamp\www\my_shop\App\Home\Controller\GoodsController.php (58).
+[ 2015-12-04T17:16:13+08:00 ]EXCEPTION: SELECT  *  FROM goods_list WHERE combine=44,47 ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '47' at line 1

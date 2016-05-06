@@ -1,0 +1,37 @@
+/*样式重置和公共类集合*/
+
+
+/*css reset*/
+body,div,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,img,span,em,i,input,p{
+	padding: 0;
+	margin: 0;
+}
+em,i{font-style: normal;}
+ul,li{
+	list-style: none;
+}
+img{
+	border:none;
+	outline: none;
+	vertical-align: top;
+}
+input{
+	outline: none;
+	
+}
+a{
+	text-decoration: none;
+}
+h3{
+	font-weight: normal;
+	font-size: 24px;
+}
+.hr-10{
+	height: 10px;
+}
+.hr-20{
+	height: 20px;
+}
+.clear{
+	clear: both;
+}
