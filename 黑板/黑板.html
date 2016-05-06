@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/heiban.css"/>
+	</head>
+	<body>
+		<div class="bc">
+			<canvas id="cav" width="460" height="280" style="background: black;"></canvas>
+			<ul id="color">
+				<li style="background: red;" id="red"></li>
+				<li style="background: blue;" id="blue"></li>
+				<li style="background: green;" id="green"></li>
+				<li style="background: yellow;" id="yellow"></li>
+				<li style="float: right;background: white;border: 1px solid #dedede;" id="black">擦</li>
+			</ul>
+			
+		</div>
+		<script src="jquery-1.11.0.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			var blackboard = function(){
+				//默认初始粉笔的颜色和宽度
+				this.LineColor = 'white';
+				this.LineWidth = '3';
+				
+				this.Ele = $('#cav')[0];
+				this.Ctx = this.Ele.getContext('2d');
+				
+				var This = this;
+				
+				this.Run = function(){
+					$(this.Ele).mousedown(function(e){
+						//开始路劲
+						This.Ctx.beginPath();
+						This.Ctx.LineWidth = This.LineWidth;
+						This.Ctx.strokeStyle = This.LineColor;
+						
+						This.Ctx.moveTo(e.clientX - $(This.Ele).position().left,e.clientY - $(This.Ele).position().top);
+						
+						$(this).mousemove(function(e){
+							This.Ctx.lineTo(e.clientX - $(This.Ele).position().left,e.clientY - $(This.Ele).position().top);
+							This.Ctx.stroke();
+						})
+						
+					})
+					
+					$(document).mouseup(function(){
+						$(This.Ele).unbind('mousemove');
+					})
+					
+					
+					//写字
+					This.Ctx.font = "18px 微软雅黑";
+					This.Ctx.fillStyle = 'white';
+					This.Ctx.fillText('小黑板',0,20);
+				}
+			}
+			
+			var obj = new blackboard();
+			obj.Run();
+			$('#color li').click(function(){
+				var color = $(this).attr('id');
+				obj.LineColor = color;
+			})
+		</script>
+	</body>
+</html>

@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.pos{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#canvas{
+    border: 1px solid grey;
+    .pos;
+}
+#welcome{
+    width: 800px;
+    height: 600px;
+    .pos;
+    background: darkcyan;
+    color: white;
+    .center{
+        width: 100%;
+        text-align: center;
+    }
+    h1{
+        .center;
+        margin-top: 150px;
+    }
+    p{
+        .center;
+        margin-top: 30px;
+        opacity: 0.7;
+    }
+    span{
+        .center;
+        display: inline-block;
+        margin-top: 20px;
+        cursor: pointer;
+        //动画
+        animation: hd 1s infinite;
+    }
+}
+@-webkit-keyframes hd{
+	0% {
+	    opacity: 0;
+	}
+	50% {
+	    opacity: 0.5;
+	}
+	100%{
+	     opacity: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
